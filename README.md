@@ -29,3 +29,6 @@ Movie sentiment analysis involves several key components and techniques:
 
 #### Conclusion
 Movie sentiment analysis is a powerful tool that leverages advanced computational techniques to extract valuable insights from textual data. By understanding audience sentiments, stakeholders in the film industry can make data-driven decisions to improve movie quality, tailor marketing strategies, and enhance overall viewer satisfaction. As technology continues to evolve, the scope and accuracy of sentiment analysis will only improve, making it an indispensable part of the modern entertainment landscape.
+
+## Dataset
+https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
